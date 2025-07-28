@@ -1,0 +1,16 @@
+These are the **Important Pandas Functions**
+
+
+| **Category**                         | **Functions**                                                                                                                                                                                                |
+| ------------------------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| 📥 **1. Loading Data**               | `pd.read_csv()`, `pd.read_excel()`, `pd.read_json()`, `pd.read_sql()`, `pd.read_html()`, `pd.read_parquet()`, `pd.read_clipboard()`                                                                          |
+| 🔍 **2. Exploring Data**             | `df.head()`, `df.tail()`, `df.info()`, `df.describe()`, `df.shape`, `df.columns`, `df.dtypes`, `df.nunique()`, `df.memory_usage()`                                                                           |
+| 🧹 **3. Cleaning Data**              | `df.dropna()`, `df.fillna()`, `df.isna()`, `df.duplicated()`, `df.drop_duplicates()`, `df.replace()`, `df.astype()`, `df.rename()`, `df.apply()`, `df.applymap()`, `df.map()`                                |
+| 🎯 **4. Selecting & Filtering Data** | `df.loc[]`, `df.iloc[]`, `df.query()`, `df.filter()`, `df.where()`, `df.mask()`, `df.sample()`, `df.nlargest()`, `df.nsmallest()`                                                                            |
+| 📊 **5. Aggregation & Statistics**   | `df.count()`, `df.sum()`, `df.mean()`, `df.median()`, `df.std()`, `df.var()`, `df.min()`, `df.max()`, `df.corr()`, `df.cov()`, `df.groupby()`, `df.pivot_table()`, `df.agg()`, `df.cumsum()`, `df.cumprod()` |
+| 🛠️ **6. Modifying Data**            | `df.insert()`, `pd.concat()`, `df.assign()`, `df.melt()`, `df.pivot()`, `df.explode()`                                                                                                                       |
+| 🔗 **7. Merging & Joining**          | `pd.concat()`, `df.merge()`, `df.join()`                                                                                                                                                                     |
+| 📑 **8. Sorting Data**               | `df.sort_values()`, `df.sort_index()`                                                                                                                                                                        |
+| 🔤 **9. String Operations**          | `df.str.lower()`, `df.str.upper()`, `df.str.strip()`, `df.str.replace()`, `df.str.contains()`, `df.str.extract()`, `df.str.findall()`, `df.str.split()`                                                      |
+| 🕒 **10. Date & Time Handling**      | `pd.to_datetime()`, `df.dt.year`, `df.dt.month`, `df.dt.day`, `df.dt.hour`, `df.dt.minute`, `df.dt.second`, `df.dt.dayofweek`                                                                                |
+| 📤 **11. Exporting Data**            | `df.to_csv()`, `df.to_excel()`, `df.to_json()`, `df.to_sql()`, `df.to_parquet()`, `df.to_clipboard()`                                                                                                        |
