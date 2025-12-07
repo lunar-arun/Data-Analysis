@@ -1,7 +1,4 @@
-_Based on the provided data sources in various fields, here are **project ideas at three levels of difficulty**—**Beginner**, **Intermediate**, and **Advanced**—for each domain:_
 ---
-
-
 _Here's the list of project ideas organized in **three levels of difficulty** across the five fields:_
 
 | Field             | Difficulty   | Project Title                         | Data Source(s)              | Project Goal / Focus                                                      |
@@ -23,4 +20,3 @@ _Here's the list of project ideas organized in **three levels of difficulty** ac
 |                   | Advanced     | Supply Chain Optimization using AI    | Supply chain logs, IoT data | Reduce inventory costs and delays with AI-driven optimization.            |
 
 ---
-
