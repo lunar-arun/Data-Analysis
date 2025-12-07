@@ -9,7 +9,7 @@ _Here's the list of project ideas organized in **three levels of difficulty** ac
 | 💰 **Finance**       | Beginner     | Stock Price Trend Classifier          | Historical stock prices     | Predict next-day stock movement direction (up/down).                      |
 |                   | Intermediate | Credit Card Fraud Detection           | Transaction logs            | Detect anomalous or fraudulent transactions.                              |
 |                   | Advanced     | Financial Health Scoring System       | Financial statements        | Score and cluster companies by financial stability.                       |
-| 📈 *Marketing**     | Beginner     | Customer Churn Prediction             | CRM systems                 | Predict which customers are likely to leave.                              |
+| 📈 **Marketing**     | Beginner     | Customer Churn Prediction             | CRM systems                 | Predict which customers are likely to leave.                              |
 |                   | Intermediate | Ad Campaign Performance Dashboard     | Web analytics, Social media | Visualize and evaluate campaign engagement and ROI.                       |
 |                   | Advanced     | Sentiment-Driven Content Optimization | Social media, CRM           | Optimize marketing content using sentiment and customer interaction data. |
 | ⚽ **Sports**        | Beginner     | Player Performance Tracker            | Match logs                  | Track and analyze player performance over time.                           |
