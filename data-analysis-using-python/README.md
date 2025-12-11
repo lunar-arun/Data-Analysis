@@ -1,4 +1,4 @@
-# 🧠 Data Analysis with Python: Pandas, NumPy, Matplotlib, and Seaborn
+# 🧠 Data Analysis with Python: Pandas, NumPy, Matplotlib, & Seaborn
 
 Welcome to the **Data Analysis with Python** training repository!  
 This repo is designed for beginners and intermediate users looking to enhance their skills in data analysis using Python's most powerful libraries:
@@ -48,11 +48,3 @@ The training is organized into modular, hands-on notebooks covering the followin
 - Final project with complete data workflow
 
 ---
-
-## 🛠️ Setup Instructions
-
-### 1. Clone the Repository
-```
-git clone https://github.com/yourusername/data-analysis-python.git
-cd data-analysis-python
-```
