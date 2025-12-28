@@ -64,9 +64,6 @@ In this section, you'll find resources and tutorials on using Python for data an
 - **SciPy & Statsmodels**: Perfect for performing statistical tests and modeling.
 - **Jupyter Notebooks**: A powerful tool for interactive data analysis and visualization.
 
-### Example Tutorial:
-- **[Intro to Pandas and DataFrames](link_to_notebook)**
-
 ---
 
 ## Mastering Excel: From Basic to Advanced
