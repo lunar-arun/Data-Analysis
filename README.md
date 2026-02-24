@@ -23,10 +23,10 @@ This section contains a curated list of books to help you build a strong foundat
   A great introduction to Python for data analysis with a focus on pandas, NumPy, and data visualization.
 
 - **"Data Science for Business" by Foster Provost & Tom Fawcett**  
-  Learn how to use data analysis for decision-making in business contexts.
+  Learn how to use data analysis to make decisions in business contexts.
 
 - **"Practical Statistics for Data Scientists" by Peter Bruce & Andrew Bruce**  
-  A hands-on guide to understanding statistical concepts that are crucial for data analysis.
+  A hands-on guide to understanding the statistical concepts crucial for data analysis.
 
 - **"The Art of Data Science" by Roger D. Peng & Elizabeth Matsui**  
   Provides insight into the mindset of a data scientist, emphasizing the importance of storytelling and strategy.
