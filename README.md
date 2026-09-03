@@ -101,4 +101,4 @@ This repository is licensed under the [MIT License](LICENSE).
 
 ---
 
-Happy analyzing! 🎉
+Happy analyzing! 🎉!
